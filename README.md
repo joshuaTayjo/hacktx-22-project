@@ -1,4 +1,4 @@
-# Hack Tx 2022: Inbox Zero
+# Inbox Zero
 This project was created for the 2022 Hack Tx hosted at UT Austin. 
 ## Inspiration
 
